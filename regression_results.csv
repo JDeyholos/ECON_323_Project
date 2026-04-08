@@ -1,7 +1,7 @@
 Variable,Pooled OLS,Two-Way FE,FE + Interaction
-Internet (lag 1),0.0095*,0.0004,0.0067
-Internet × Least Developed,—,—,0.0067*
-Internet × Developed,—,—,-0.0148*
-Human Capital,1.0927*,1.3101*,0.6615
-Trade Openness,0.1600,-0.3891,-0.1084
-Capital Formation,-0.6815,3.6516*,2.4531*
+Internet (lag 1),0.0091*,-0.0008,0.0076*
+Internet × Least Developed,—,—,0.0074*
+Internet × Developed,—,—,-0.0130*
+Human Capital,1.1196*,1.2896*,0.5876
+Trade Openness,0.1524,-0.4209,-0.1742
+Capital Formation,-0.4578,3.7043*,2.7442*
